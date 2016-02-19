@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.controller.test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.controller.test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.029310346">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="karma.conf.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="karma.conf.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/AdventureWorks/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="2.1465516">
               <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
               <folding />
             </state>
@@ -468,7 +468,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js</url>
-          <line>52</line>
+          <line>50</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -478,12 +478,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js</url>
-          <line>35</line>
+          <line>33</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js</url>
-          <line>27</line>
+          <line>25</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
@@ -766,10 +766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/AdventureWorks/karma.conf.js">
+    <entry file="file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -782,10 +782,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/AdventureWorks/aw.app/app.controller.test.js">
+    <entry file="file://$PROJECT_DIR$/test/AdventureWorks/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.029310346">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="2.1465516">
+          <caret line="81" column="36" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
           <folding />
         </state>
       </provider>

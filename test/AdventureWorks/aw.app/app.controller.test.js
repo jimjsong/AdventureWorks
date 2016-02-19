@@ -1,8 +1,6 @@
 describe("unit test", function () {
-
     var controller, createController, scope;
     var serviceVariables;
-
 
     var sandbox;
     var toastrErrorSpy;
@@ -53,7 +51,7 @@ describe("unit test", function () {
             controller = createController();
             scope.$digest();  //resolve promises
             expect(controller.sample).toBe(5);
-            expect(spyServiceCall.callCount).toBe(1);
+            expect(spyServiceCall.callCount).toBe(2);
             expect(true).toBe(true);
         });
     });
