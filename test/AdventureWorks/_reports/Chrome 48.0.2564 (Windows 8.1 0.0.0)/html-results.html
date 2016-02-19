@@ -68,7 +68,7 @@
             </div>
             <div class="collapse navbar-collapse">
                 <div id="refreshToggle" class="pull-right">
-                    <span id="timestamp">11:40:28</span>
+                    <span id="timestamp">13:04:06</span>
                     <button class="btn btn-danger" id="refreshBtn">Disable Refresh</button>
                 </div>
             </div>
@@ -101,13 +101,13 @@
                     </div>
                     <div class="col-sm-2 col-sm-offset-1">
                         <div class="countBox danger">
-                            <h2>8</h2>
+                            <h2>0</h2>
                             Failed Tests
                         </div>
                     </div>
                     <div class="col-sm-2 col-sm-offset-1">
                         <div class="countBox active">
-                            <h2>1</h2>
+                            <h2>9</h2>
                             Skipped Tests
                         </div>
                     </div>
@@ -127,216 +127,52 @@
   <tr class="success">
     <td class="expand"/>
     <td class="status">Passed</td>
-    <td>Customers :: constructor :: should return a user object</td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: validation :: should return true for valid customer</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>ReferenceError: date is not defined
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:34:143)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: validation :: should return false for customer with long first name</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>ReferenceError: date is not defined
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:40:239)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: validation :: should return false for customer with long last name</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>ReferenceError: date is not defined
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:46:239)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: build :: should return a new customer</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>Expected undefined to be 1.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:73:33)
-
-
-Expected undefined to be &apos;style&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:74:40)
-
-
-Expected undefined to be &apos;Mr.&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:75:36)
-
-
-Expected undefined to be &apos;Test&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:76:40)
-
-
-Expected undefined to be &apos;Middle&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:77:41)
-
-
-Expected undefined to be &apos;User&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:78:39)
-
-
-Expected undefined to be &apos;&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:79:37)
-
-
-Expected undefined to be &apos;Contoso&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:80:42)
-
-
-Expected undefined to be &apos;noone@nowhere.com&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:81:43)
-
-
-Expected undefined to be &apos;555-555-5555&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:82:36)
-
-
-Expected undefined to be Date(Fri Feb 19 2016 11:40:28 GMT-0500 (Eastern Standard Time)).
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:83:43)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: fromDto :: should return a single object if one DTO has been retrieved from service</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>Expected undefined to be 1.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:110:33)
-
-
-Expected undefined to be &apos;style&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:111:40)
-
-
-Expected undefined to be &apos;Mr.&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:112:36)
-
-
-Expected undefined to be &apos;Test&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:113:40)
-
-
-Expected undefined to be &apos;Middle&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:114:41)
-
-
-Expected undefined to be &apos;User&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:115:39)
-
-
-Expected undefined to be &apos;&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:116:37)
-
-
-Expected undefined to be &apos;Contoso&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:117:42)
-
-
-Expected undefined to be &apos;noone@nowhere.com&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:118:43)
-
-
-Expected undefined to be &apos;555-555-5555&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:119:36)
-
-
-Expected undefined to be Date(Fri Feb 19 2016 11:40:28 GMT-0500 (Eastern Standard Time)).
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:120:43)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: fromDto :: should return an array if multiple DTOs have been retrieved from service</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>Expected undefined to be 1.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:162:37)
-
-
-Expected undefined to be &apos;Test&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:163:44)
-
-
-Expected undefined to be 2.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:164:37)
-
-
-Expected undefined to be &apos;Second&apos;.
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:165:44)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: extensions :: should return false when checked for extensibility</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>ReferenceError: date is not defined
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:172:143)
-
-
-</pre>
-    </td>
-  </tr>
-  <tr class="danger">
-    <td class="expand" rowspan="2"/>
-    <td class="status" rowspan="2">Failed</td>
-    <td>Customers :: extensions :: should return undefined when adding extensions</td>
-  </tr>
-  <tr class="danger">
-    <td class="error" colspan="2">
-      <pre>ReferenceError: date is not defined
-    at Object.&lt;anonymous&gt; (D:/Workspaces/techRetreat/AdventureWorks/test/AdventureWorks/aw.app/customer.test.js:178:143)
-
-
-</pre>
-    </td>
+    <td>unit test :: sub grouping name :: should do something</td>
   </tr>
   <tr class="active">
     <td class="expand"/>
     <td class="status">Skipped</td>
-    <td>unit test :: sub grouping name :: should do something</td>
+    <td>Customers :: constructor :: should return a user object</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: validation :: should return true for valid customer</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: validation :: should return false for customer with long first name</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: validation :: should return false for customer with long last name</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: build :: should return a new customer</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: fromDto :: should return a single object if one DTO has been retrieved from service</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: fromDto :: should return an array if multiple DTOs have been retrieved from service</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: extensions :: should return false when checked for extensibility</td>
+  </tr>
+  <tr class="active">
+    <td class="expand"/>
+    <td class="status">Skipped</td>
+    <td>Customers :: extensions :: should return undefined when adding extensions</td>
   </tr>
 </table>
 
