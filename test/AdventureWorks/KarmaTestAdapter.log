@@ -1,0 +1,77 @@
+[04.02.2016 13:09:24.399] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[04.02.2016 13:09:24.405] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[04.02.2016 13:09:25.108] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[05.02.2016 12:30:06.377] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[05.02.2016 12:30:06.382] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[05.02.2016 12:30:06.385] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[05.02.2016 12:30:06.422] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[05.02.2016 12:30:17.564] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[05.02.2016 12:30:17.582] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[05.02.2016 12:30:17.587] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[05.02.2016 12:30:17.639] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[05.02.2016 12:30:17.661] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[05.02.2016 12:30:17.667] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[05.02.2016 12:30:17.672] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[05.02.2016 12:30:17.694] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[05.02.2016 12:30:17.699] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[05.02.2016 12:30:17.703] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[05.02.2016 13:36:23.883] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[05.02.2016 13:36:23.887] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[05.02.2016 13:36:23.891] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[05.02.2016 13:36:23.895] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[09.02.2016 06:32:30.364] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[09.02.2016 06:32:30.368] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[09.02.2016 06:32:30.373] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[09.02.2016 06:32:30.411] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[09.02.2016 06:32:30.415] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[09.02.2016 06:32:30.419] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[09.02.2016 06:32:30.424] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[09.02.2016 06:32:30.452] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[09.02.2016 06:32:30.456] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[09.02.2016 06:32:30.461] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[09.02.2016 06:32:36.837] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[09.02.2016 06:32:36.841] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[09.02.2016 06:32:36.846] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[09.02.2016 06:32:36.850] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[09.02.2016 06:32:37.040] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[09.02.2016 06:32:37.048] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[09.02.2016 06:32:37.394] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[09.02.2016 06:32:37.714] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[09.02.2016 06:32:37.722] [Karma] [Debug] [Nexus.Web.Tests] Stop watching d:/Workspaces/Nexus.Web/Develop/Nexus.Web/Nexus.Web.Tests/KarmaTestAdapter.json
+[09.02.2016 06:32:37.727] [Karma] [Debug] [Nexus.Web.Tests] Stop watching d:/Workspaces/Nexus.Web/Develop/Nexus.Web/Nexus.Web.Tests/karma.conf.js
+[09.02.2016 06:32:37.731] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[09.02.2016 06:32:37.747] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[09.02.2016 06:32:37.752] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[09.02.2016 06:32:37.756] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[09.02.2016 06:32:37.870] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[09.02.2016 06:32:37.874] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[09.02.2016 06:32:37.879] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[09.02.2016 06:32:37.884] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[09.02.2016 06:32:37.891] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[09.02.2016 06:32:37.895] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[09.02.2016 06:32:37.899] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[09.02.2016 14:12:27.699] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[09.02.2016 14:12:27.705] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[09.02.2016 14:12:27.709] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[09.02.2016 14:12:27.712] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[10.02.2016 12:37:30.203] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[10.02.2016 12:37:30.209] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[10.02.2016 12:37:30.216] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[12.02.2016 06:17:16.235] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[12.02.2016 06:17:16.240] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[12.02.2016 06:17:16.245] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[12.02.2016 06:17:16.275] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[12.02.2016 06:17:16.353] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[12.02.2016 06:17:16.358] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[12.02.2016 06:17:16.363] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[12.02.2016 06:17:17.132] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[12.02.2016 06:17:17.138] [Karma] [Debug] [Nexus.Web.Tests] Stop watching d:/Workspaces/Nexus.Web/Develop/Nexus.Web/Nexus.Web.Tests/KarmaTestAdapter.json
+[12.02.2016 06:17:17.142] [Karma] [Debug] [Nexus.Web.Tests] Stop watching d:/Workspaces/Nexus.Web/Develop/Nexus.Web/Nexus.Web.Tests/karma.conf.js
+[12.02.2016 06:17:17.147] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed
+[12.02.2016 12:03:09.123] [Karma] [Debug] [Nexus.Web.Tests] Watching KarmaTestAdapter.json
+[12.02.2016 12:03:09.128] [Karma] [Debug] [Nexus.Web.Tests] Watching karma.conf.js
+[12.02.2016 12:03:09.133] [Karma] [Warning] [Nexus.Web.Tests] Karma is disabled in KarmaTestAdapter.json
+[12.02.2016 12:04:40.305] [Karma] [Debug] [Nexus.Web.Tests] Disposing of TestContainer
+[12.02.2016 12:04:40.309] [Karma] [Debug] [Nexus.Web.Tests] Stop watching KarmaTestAdapter.json
+[12.02.2016 12:04:40.313] [Karma] [Debug] [Nexus.Web.Tests] Stop watching karma.conf.js
+[12.02.2016 12:04:40.384] [Karma] [Debug] [Nexus.Web.Tests] TestContainer disposed

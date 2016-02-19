@@ -1,0 +1,12 @@
+{
+  "browser": true,
+  "jquery": true,
+  "jasmine": true,
+  "node": true,
+  "phantom": true,
+  "laxbreak": true,
+  "laxcomma": true,
+  "globals": {
+    "angular": false
+  }
+}

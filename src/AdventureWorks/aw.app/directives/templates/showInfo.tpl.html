@@ -1,0 +1,24 @@
+<div>
+    <script type="text/ng-template" id="customer-info.html">
+        <div class="modal-header">
+            <h2 ng-bind="vm.customer.firstName + ' ' + vm.customer.lastName"></h2>
+            <h4 ng-bind="vm.customer.companyName"></h4>
+        </div>
+        <div class="modal-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <span ng-bind="vm.customer.phone"></span><br />
+                    <span><a ng-href="mailto:{{vm.customer.emailAddress}}" ng-bind="vm.customer.emailAddress"></a></span><br />
+                </div>
+                <div class="col-md-6">
+                    <span ng-bind="vm.customerAddress[0].addressLine1"></span><br />
+                    <span ng-bind="vm.customerAddress[0].addressLine2"></span><br />
+                    <span ng-bind="vm.customerAddress[0].city"></span>, <span ng-bind="vm.customerAddress[0].stateProvince"></span> <span ng-bind="vm.customerAddress[0].postalCode"></span>
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-warning" type="button" ng-click="vm.cancel()">Close</button>
+        </div>
+    </script>
+</div>

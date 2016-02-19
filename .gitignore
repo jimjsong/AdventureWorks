@@ -1,0 +1,6 @@
+packages
+src/AdventureWorks/bower_components/*
+src/AdventureWorks/node_modules/*
+test/AdventureWorks/bin/*
+test/AdventureWorks/node_modules/*
+test/AdventureWorks/obj/*
